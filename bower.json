@@ -1,0 +1,19 @@
+{
+  "name": "test--gulp.bx",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "evg <evg-nik@list.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
